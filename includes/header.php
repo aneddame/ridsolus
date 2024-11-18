@@ -9,9 +9,10 @@
 <body>
 <header>
     <div class="container">
-        <h1>Ridsolus</h1>
+
         <nav>
             <ul>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="services.php">Services</a></li>
