@@ -6,7 +6,10 @@
     <title>Ridsolus - Web & Mobile Development</title>
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/footer.css">
+    <link rel="stylesheet" href="./css/services.css">
+    <link rel="stylesheet" href="./css/contact.css">
     <link rel="stylesheet" href="styles.css">
+
 </head>
 <body>
 <header>

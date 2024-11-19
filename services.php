@@ -3,7 +3,7 @@
 <section id="services">
     <div class="container">
         <h2>Our Services</h2>
-        <ul>
+        <ul class="services-list">
             <li>Web Development</li>
             <li>Mobile App Development</li>
             <li>IoT Solutions</li>
@@ -12,5 +12,6 @@
         </ul>
     </div>
 </section>
+
 
 <?php include 'includes/footer.php'; ?>
