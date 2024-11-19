@@ -20,38 +20,7 @@ body {
 }
 
 /* Header */
-header {
-    background: #007BFF;
-    color: #fff;
-    padding: 1rem 0;
-}
 
-header h1 {
-    text-align: center;
-    font-size: 2rem;
-}
-
-nav ul {
-    display: flex;
-    justify-content: center;
-    list-style: none;
-    margin-top: 1rem;
-}
-
-nav ul li {
-    margin: 0 1rem;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-    transition: color 0.3s ease;
-}
-
-nav ul li a:hover {
-    color: #FFD700;
-}
 
 /* Hero Section */
 .hero {
@@ -91,31 +60,8 @@ section p {
 }
 
 /* Services List */
-#services ul {
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 0;
-    margin-top: 1rem;
-}
 
-#services ul li {
-    background: #007BFF;
-    color: #fff;
-    margin: 0.5rem;
-    padding: 1rem;
-    border-radius: 5px;
-    text-align: center;
-    flex: 1 1 calc(30% - 1rem);
-    max-width: calc(30% - 1rem);
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease;
-}
 
-#services ul li:hover {
-    transform: translateY(-5px);
-}
 
 /* Contact Form */
 form {
@@ -156,12 +102,5 @@ form button:hover {
     background: #0056b3;
 }
 
-/* Footer */
-footer {
-    text-align: center;
-    background: #333;
-    color: #fff;
-    padding: 1rem 0;
-    margin-top: 2rem;
-    font-size: 0.9rem;
-}
+
+
